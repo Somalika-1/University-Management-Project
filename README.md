@@ -1,1 +1,1 @@
-# University-Management-Project:It is a java based project
+# University-Management-Project:  This Java-based application manages student records with three key functionalities: adding student details, viewing student information, and updating marks etc. Users can input and store comprehensive student data, retrieve and display individual student records, and modify marks for various courses. The system utilizes Java collections for data management and can be extended with a graphical user interface or database integration for enhanced usability and persistence.
